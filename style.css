@@ -1,5 +1,5 @@
 body.home-page {
-    background-image: url('picture/background3.jpg');
+    background-image: url('background3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -369,7 +369,6 @@ body.general-page {
 
 .edu-details {
     flex: 1;
-    min-width: 0;
 }
 
 .edu-year {
@@ -414,7 +413,6 @@ body.general-page {
     display: block;
     object-fit: cover; 
 }
-
 .edu-links {
     display: flex;
     gap: 10px;
