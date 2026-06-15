@@ -369,6 +369,7 @@ body.general-page {
 
 .edu-details {
     flex: 1;
+    min-width: 0;
 }
 
 .edu-year {
